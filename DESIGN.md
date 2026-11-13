@@ -43,18 +43,31 @@ timestamps, ledgers, signed records, control rooms. Precision over warmth, on a 
 **Light-first.** A cool paper white, slightly blue in its grey, for the body of every page. That is the workspace
 register: calm, daily, readable.
 
-**The evidence register** is a navy-black derived from the brand navy. It is used with intent, not as an
-alternating stripe: the hero block (the workspace convention), the meeting and comparison on the home page, the
-"what they'll ask, and what we have ready" tables on the sector pages, and the call to action. When the copy is
-about the day the question comes, the ground goes dark.
+**The evidence register is Trisian's own indigo**, the colour the logo's "advance" is set in, not a borrowed dark
+mode. It is used with intent, not as an alternating stripe: every page hero (the nav sits transparent on it until
+the page scrolls), the meeting and comparison on the home page, the "what they'll ask, and what we have ready"
+tables on the sector pages, and the call to action. When the copy is about the day the question comes, the ground
+goes indigo.
+
+### Labels, questions and numerals
+
+Labels (Truth 1 of 3, Also on every plan, tier names, tags, footer headings) are Archivo Condensed Black, uppercase,
+in the accent. Questions are Graphik Light pull-lines. Numerals are Archivo at 40 to 112px, from the copy where it
+has them and from CSS counters where it does not.
+
+### Surfaces
+
+No cards. Sections are ruled editorial columns: one rule across the top, large numerals, 22 to 26px titles,
+16.5px ink-black body. The only framed surfaces are the hero render, the comparison on the home page, the day-after
+board on a sector page, the three scene tiles and the photo slots.
 
 ### Type
 
 - **Graphik** for everything, at weight 500 for display sizes, tracking -0.03em, left-aligned. Display 64 to 80px.
 - **Archivo Condensed Black** is the product's voice. "Safe Workspace" is set in it wherever the name leads a
   section or sits in a heading-level position. No new logo; the name becomes a type mark.
-- **IBM Plex Mono** (Open Font License, self-hosted) for the evidence motif only: timestamps, framework names, the
-  comparison table, log-style detail, eyebrow labels. Never for running text.
+- **IBM Plex Mono** (Open Font License, self-hosted) only inside the plan comparison table. It was tried for labels
+  and eyebrows and read as generic; Archivo took that job.
 
 ### Palette
 
@@ -77,8 +90,8 @@ existing scene SVGs, recoloured to the palette, with one orchestrated load seque
 
 ### Icons
 
-The isometric PNG set is retired. A bespoke monoline SVG set at 1.5px, drawn for both grounds, one icon per
-existing slot. The large scene illustrations stay: they are already monoline and recolour cleanly.
+None. The isometric set is retired, and a monoline set was tried and rejected as generic. The large scene
+illustrations stay and carry the home page; the numerals and labels do the work icons used to do.
 
 ### Motion
 
