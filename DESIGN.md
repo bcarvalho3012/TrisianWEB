@@ -7,33 +7,46 @@ images are free.
 
 ## What the research says
 
-Ten sites read on 2026-11-13 with their computed styles pulled from the page, not from memory: Cloudflare,
-CrowdStrike, Palo Alto Networks, Okta, Zscaler and Rubrik, plus Stripe, Linear and Vercel as
-design-led benchmarks.
+Seventeen sites read on 2026-11-13 with their computed styles pulled from the page, not from memory. Two
+neighbourhoods, because Trisian lives in both: it sells a managed digital workspace, and its thesis is compliance
+evidence.
 
-| Trait | What the set does | Trisian today |
-|---|---|---|
-| Ground | Security and infrastructure brands open dark: CrowdStrike (black), Palo Alto (#141414), Okta (deep navy), Zscaler (#001744), Linear (#08090A). Rubrik, Vercel, Stripe and Cloudflare open light. | Light with a navy band |
-| Headline | 56 to 80px, weight 400 to 510, tracking -1.2 to -3.8px. Left-aligned on 6 of 10. | 66px, weight 700, left |
-| Type | A proprietary or licensed grotesk on every site (Söhne, Geist, Inter, FK Grotesk, TT Hoves, GT Haptik, Aeonik, STK Bureau Sans). None use a rounded humanist sans. | Graphik, which fits this company |
-| Radius | 4 to 8px dominates (Vercel 6, Stripe 4, Cloudflare 6, Rubrik 8, Linear 8). Zscaler and Palo Alto use 0 on buttons. | 16 to 24px |
-| Depth | Hairline borders, almost no shadows. Linear: 1px white at 5% inset. Vercel: 1px black at 8%. | Tinted drop shadows on every card |
-| Icons | Monoline SVG, 1.5px stroke, on 7 of 10. No site uses an isometric or illustrated icon set. | Isometric PNG illustrations, purple and lime |
-| Imagery | Product renders (Linear, Vercel), abstract 3D or atmosphere (Okta, Palo Alto, Rubrik). Stock "people at a desk" photography is rare. | Nine stock photos |
-| Gradients | Present but atmospheric, behind content. Stripe's is a signature, the exception. | Two bands in the reference style |
+**Workspace and managed services:** Citrix, Omnissa, Workspot, Windows 365, Nerdio, Kyndryl, Rackspace.
+**Security and infrastructure:** Cloudflare, CrowdStrike, Palo Alto Networks, Okta, Zscaler, Rubrik.
+**Design-led benchmarks:** Stripe, Linear, Vercel.
 
-Conclusion: the current site is well made but belongs to the generic SaaS family. The peer set is darker, flatter,
-tighter and more typographic, with the product itself as the picture.
+| Trait | Workspace and managed services | Security and infrastructure | Trisian today |
+|---|---|---|---|
+| Ground | Light body on 6 of 7, with a deep navy or indigo hero block on 5 of 7 (Citrix cobalt, Omnissa indigo, Workspot navy, Nerdio navy, Kyndryl dark photo). | Dark throughout on 5 of 6 (CrowdStrike black, Palo Alto #141414, Okta navy, Zscaler #001744; Rubrik is the light one). | Light with one navy band |
+| Headline | 40 to 80px, weight 300 to 500. Left-aligned on 6 of 7. | 49 to 80px, weight 400 to 700. Left on 4 of 6. | 66px, weight 700, left |
+| Type | A grotesk on all but Nerdio (Poppins). Weights are light: Citrix 300, Omnissa 300, Kyndryl 300, Rackspace 500. | Grotesks throughout, weight 400 to 500 on most. | Graphik, which fits both sets |
+| Radius | Mixed: Rackspace 4, Citrix 2, Windows 365 24, Workspot 50, Nerdio 20. | 4 to 8px. | 16 to 24px |
+| Depth | Some shadows (Omnissa, Rackspace), hairlines elsewhere. | Hairlines, almost no shadows. | Tinted shadows on every card |
+| Icons | Monoline 1.5px where SVG icons exist (Rackspace 31 of them). No isometric sets. | Monoline 1.5px on 5 of 6. No isometric sets. | Isometric PNG, purple and lime |
+| Imagery | Product UI renders (Nerdio, Workspot, Windows 365), abstract atmosphere (Omnissa, Kyndryl). | Product renders and abstract 3D. | Nine stock photos |
+
+**Across all seventeen:** no site uses an isometric or illustrated icon set; headline weight is 300 to 500 on 14 of
+17; stock "people at a desk" photography is rare; the product itself or an abstract atmosphere is the picture.
+
+**Where the two neighbourhoods differ:** the workspace set is light with a saturated blue hero block, because it is
+selling a daily experience and wants to feel calm and available. The security set is dark throughout, because it
+is selling vigilance. Trisian is a workspace company whose promise is evidence, so it borrows the workspace
+ground and the security precision.
 
 ## Direction
 
 **One idea: evidence.** The copy's thesis is "what did you know, and when". The site borrows from that world:
-timestamps, ledgers, signed records, control rooms. Precision over warmth.
+timestamps, ledgers, signed records, control rooms. Precision over warmth, on a ground that stays open.
 
-### Ground
+### Ground: two registers
 
-Dark-first. A navy-black derived from the brand navy, not a flat grey-black, so the blue accent belongs to it.
-Light sections only where the content is a document to be read: the plan comparison table, the FAQ, legal pages.
+**Light-first.** A cool paper white, slightly blue in its grey, for the body of every page. That is the workspace
+register: calm, daily, readable.
+
+**The evidence register** is a navy-black derived from the brand navy. It is used with intent, not as an
+alternating stripe: the hero block (the workspace convention), the meeting and comparison on the home page, the
+"what they'll ask, and what we have ready" tables on the sector pages, and the call to action. When the copy is
+about the day the question comes, the ground goes dark.
 
 ### Type
 
@@ -45,8 +58,9 @@ Light sections only where the content is a document to be read: the plan compari
 
 ### Palette
 
-Navy-black ground, ink-white type at 92%, a muted blue-grey for secondary text, the brand bright blue as the single
-accent, used for one thing per screen. Hairline borders at 8% white. No tinted shadows. No purple anywhere.
+Paper ground, ink text in a near-black navy, a blue-grey for secondary text, the brand bright blue as the single
+accent, used for one thing per screen. Dark sections invert the same tokens. Hairline borders at 10% ink on light
+and 8% white on dark. No tinted shadows. No purple anywhere.
 
 ### Shape
 
@@ -63,7 +77,7 @@ existing scene SVGs, recoloured to the palette, with one orchestrated load seque
 
 ### Icons
 
-The isometric PNG set is retired. A bespoke monoline SVG set at 1.5px, drawn for the dark ground, one icon per
+The isometric PNG set is retired. A bespoke monoline SVG set at 1.5px, drawn for both grounds, one icon per
 existing slot. The large scene illustrations stay: they are already monoline and recolour cleanly.
 
 ### Motion
