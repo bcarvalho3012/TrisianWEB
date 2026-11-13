@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <!-- Trisian monoline icon set. 24 grid, 1.5px stroke, round caps and joins, no fills. Referenced with <use href="…/icons.svg#id">. -->
+  <defs>
+    <style>symbol *{fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}</style>
+  </defs>
+
+  <!-- the desktop: a monitor with a session inside and a clean base -->
+  <symbol id="i-desktop" viewBox="0 0 24 24"><rect x="2.75" y="4.25" width="18.5" height="12.5" rx="1.5"/><path d="M8 20.25h8M12 16.75v3.5"/><path d="M6.5 8h5M6.5 11h8"/></symbol>
+
+  <!-- the defense: a shield with a lock stroke -->
+  <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 2.75 4.75 5.5v5.75c0 4.55 3.1 8 7.25 9.95 4.15-1.95 7.25-5.4 7.25-9.95V5.5L12 2.75Z"/><path d="M9.5 11.75v-1.5a2.5 2.5 0 0 1 5 0v1.5"/><rect x="8.75" y="11.75" width="6.5" height="4.5" rx="1"/></symbol>
+
+  <!-- the headroom: capacity that follows demand, up and down -->
+  <symbol id="i-headroom" viewBox="0 0 24 24"><path d="M3.75 19.25h16.5"/><path d="M5.5 15.75v-4M9.5 15.75V8.25M13.5 15.75v-6M17.5 15.75V5.25"/><path d="M15 7.5 17.5 5l2.5 2.5"/></symbol>
+
+  <!-- the controls: a record with a tick -->
+  <symbol id="i-controls" viewBox="0 0 24 24"><path d="M6.75 2.75h7.5l4 4v13.5a1 1 0 0 1-1 1h-10.5a1 1 0 0 1-1-1V3.75a1 1 0 0 1 1-1Z"/><path d="M14.25 2.75v4h4"/><path d="M8.5 14.5l2.25 2.25 4.75-4.75"/></symbol>
+
+  <!-- the licence: a key -->
+  <symbol id="i-licence" viewBox="0 0 24 24"><circle cx="8" cy="15" r="4.25"/><path d="M11.25 11.75 19.5 3.5M16 7l2.5 2.5M13.5 9.5 16 12"/></symbol>
+
+  <!-- patching on schedule: a calendar with a refresh arrow -->
+  <symbol id="i-patch" viewBox="0 0 24 24"><rect x="3.25" y="4.75" width="17.5" height="16" rx="1.5"/><path d="M3.25 9.25h17.5M7.75 2.75v4M16.25 2.75v4"/><path d="M9.5 15.5a2.75 2.75 0 0 1 5.2-1.25M14.5 15.5a2.75 2.75 0 0 1-5.2 1.25"/><path d="M14.75 12.25v2.25h-2.25M9.25 18.75V16.5h2.25"/></symbol>
+
+  <!-- one master image: stacked layers -->
+  <symbol id="i-image" viewBox="0 0 24 24"><path d="m12 3.75 8.5 4.5L12 12.75 3.5 8.25l8.5-4.5Z"/><path d="m3.5 12.25 8.5 4.5 8.5-4.5"/><path d="m3.5 16.25 8.5 4.5 8.5-4.5"/></symbol>
+
+  <!-- map: a compass -->
+  <symbol id="i-map" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.25"/><path d="m15.5 8.5-2 5-5 2 2-5 5-2Z"/></symbol>
+
+  <!-- build: a drafting square and pencil -->
+  <symbol id="i-build" viewBox="0 0 24 24"><path d="M3.75 20.25V8.75l5-5v16.5h-5Z"/><path d="M8.75 20.25h11.5v-5l-5 5"/><path d="M3.75 12.75h2M3.75 16.75h2"/></symbol>
+
+  <!-- move: a box crossing an arrow -->
+  <symbol id="i-move" viewBox="0 0 24 24"><rect x="2.75" y="7.75" width="9.5" height="8.5" rx="1"/><path d="M12.25 12h9M18 8.75 21.25 12 18 15.25"/></symbol>
+
+  <!-- run: a monitor with a pulse -->
+  <symbol id="i-run" viewBox="0 0 24 24"><rect x="2.75" y="4.25" width="18.5" height="12.5" rx="1.5"/><path d="M8 20.25h8M12 16.75v3.5"/><path d="M6 10.5h3l1.5-3 2.5 6 1.5-3h3.5"/></symbol>
+
+  <!-- size: people -->
+  <symbol id="i-size" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.25"/><path d="M3.25 19.25a5.75 5.75 0 0 1 11.5 0"/><path d="M15.5 5.25a3.25 3.25 0 0 1 0 5.5M17.25 13.75a5.75 5.75 0 0 1 3.5 5.5"/></symbol>
+
+  <!-- rules: a gavel block, drawn as a seal -->
+  <symbol id="i-rules" viewBox="0 0 24 24"><path d="M12 2.75 3.75 6.5v4c0 5.1 3.4 8.6 8.25 10.75C16.85 19.1 20.25 15.6 20.25 10.5v-4L12 2.75Z"/><path d="M8.5 11.5h7M8.5 14.5h7M8.5 8.5h7"/></symbol>
+
+  <!-- hours: a clock -->
+  <symbol id="i-hours" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.25"/><path d="M12 6.75V12l3.5 2"/></symbol>
+
+  <!-- appetite: a dial -->
+  <symbol id="i-appetite" viewBox="0 0 24 24"><path d="M4 16.5a8.5 8.5 0 1 1 16 0"/><path d="M12 16.5 15.5 9"/><circle cx="12" cy="16.5" r="1.25"/><path d="M4.75 20.25h14.5"/></symbol>
+
+  <!-- tiers: one, two, three bars -->
+  <symbol id="i-core" viewBox="0 0 24 24"><rect x="3.75" y="13.75" width="16.5" height="6.5" rx="1"/><path d="M7 17h2M15 17h2"/></symbol>
+  <symbol id="i-advanced" viewBox="0 0 24 24"><rect x="3.75" y="13.75" width="16.5" height="6.5" rx="1"/><rect x="3.75" y="3.75" width="16.5" height="6.5" rx="1"/><path d="M7 7h2M7 17h2"/></symbol>
+  <symbol id="i-enterprise" viewBox="0 0 24 24"><rect x="3.75" y="15.25" width="16.5" height="5" rx="1"/><rect x="3.75" y="9.5" width="16.5" height="5" rx="1"/><rect x="3.75" y="3.75" width="16.5" height="5" rx="1"/><path d="M7 6.25h2M7 12h2M7 17.75h2"/></symbol>
+
+  <!-- billing -->
+  <symbol id="i-fee" viewBox="0 0 24 24"><rect x="2.75" y="5.25" width="18.5" height="13.5" rx="1.5"/><path d="M2.75 9.75h18.5M6.5 15h3"/></symbol>
+  <symbol id="i-hours-log" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.25"/><path d="M12 7v5h4"/><path d="M12 2.75v1.5M21.25 12h-1.5"/></symbol>
+  <symbol id="i-projects" viewBox="0 0 24 24"><path d="M3.75 7.75h16.5v11.5a1 1 0 0 1-1 1H4.75a1 1 0 0 1-1-1V7.75Z"/><path d="M8.25 7.75v-2a1 1 0 0 1 1-1h5.5a1 1 0 0 1 1 1v2"/><path d="M3.75 12.75h16.5"/></symbol>
+  <symbol id="i-addon" viewBox="0 0 24 24"><rect x="3.75" y="3.75" width="7" height="7" rx="1"/><rect x="13.25" y="3.75" width="7" height="7" rx="1"/><rect x="3.75" y="13.25" width="7" height="7" rx="1"/><path d="M16.75 13.75v6M13.75 16.75h6"/></symbol>
+
+  <!-- projects: scope, quote, finish -->
+  <symbol id="i-scope" viewBox="0 0 24 24"><circle cx="12" cy="12" r="7.25"/><path d="M12 2.75v3M12 18.25v3M2.75 12h3M18.25 12h3"/><circle cx="12" cy="12" r="1.5"/></symbol>
+  <symbol id="i-quote" viewBox="0 0 24 24"><path d="M6.75 2.75h10.5a1 1 0 0 1 1 1v16.5a1 1 0 0 1-1 1H6.75a1 1 0 0 1-1-1V3.75a1 1 0 0 1 1-1Z"/><path d="M9 7.5h6M9 11h6M9 14.5h3.5"/></symbol>
+  <symbol id="i-finish" viewBox="0 0 24 24"><path d="M5.75 21.25V3.75"/><path d="M5.75 4.75h12.5l-2.5 4 2.5 4H5.75"/></symbol>
+
+  <!-- sectors -->
+  <symbol id="i-financial" viewBox="0 0 24 24"><path d="M3.75 20.25h16.5M4.75 9.75h14.5M6.75 9.75v8M11.25 9.75v8M15.75 9.75v8M12 3.75l8.25 6H3.75l8.25-6Z"/></symbol>
+  <symbol id="i-healthcare" viewBox="0 0 24 24"><path d="M12 3.75c-2.5-2.2-6.75-1.6-7.9 1.6-1.6 4.4 3.6 9.6 7.9 13.9 4.3-4.3 9.5-9.5 7.9-13.9-1.15-3.2-5.4-3.8-7.9-1.6Z"/><path d="M8.5 11h2l1.5-2.5L13.5 12l1-1.5h2"/></symbol>
+  <symbol id="i-legal" viewBox="0 0 24 24"><path d="M12 3.75v16.5M6.5 20.25h11"/><path d="M4.25 7.75h15.5"/><path d="m6.5 7.75-2.75 6a2.75 2.75 0 0 0 5.5 0l-2.75-6ZM17.5 7.75l-2.75 6a2.75 2.75 0 0 0 5.5 0l-2.75-6Z"/></symbol>
+  <symbol id="i-growing" viewBox="0 0 24 24"><path d="M3.75 20.25h16.5"/><path d="M4.75 16.25 10 11l3.5 3.5 6.75-6.75"/><path d="M16.25 7.75h4v4"/></symbol>
+
+  <!-- services: reused across the six groups -->
+  <symbol id="i-migrate" viewBox="0 0 24 24"><path d="M3.75 7.75h7v8.5h-7z"/><path d="M13.25 7.75h7v8.5h-7z"/><path d="M8 12h8M14 10l2 2-2 2"/></symbol>
+  <symbol id="i-cloud" viewBox="0 0 24 24"><path d="M7.25 18.25A4.5 4.5 0 0 1 6.75 9.3a5.5 5.5 0 0 1 10.6 1.45 3.75 3.75 0 0 1-.6 7.5H7.25Z"/></symbol>
+  <symbol id="i-sites" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.25"/><path d="M2.75 12h18.5M12 2.75c2.75 2.75 2.75 15.75 0 18.5M12 2.75c-2.75 2.75-2.75 15.75 0 18.5"/></symbol>
+  <symbol id="i-zerotrust" viewBox="0 0 24 24"><circle cx="12" cy="12" r="2.5"/><circle cx="12" cy="12" r="6.25" stroke-dasharray="3 2.5"/><circle cx="12" cy="12" r="9.25"/></symbol>
+  <symbol id="i-identity" viewBox="0 0 24 24"><rect x="2.75" y="4.75" width="18.5" height="14.5" rx="1.5"/><circle cx="8.5" cy="11" r="2.25"/><path d="M5 16.25a3.5 3.5 0 0 1 7 0M14.5 9.5h4M14.5 13h4"/></symbol>
+  <symbol id="i-detect" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.25"/><path d="m15.5 15.5 5 5"/><path d="M8.5 11h5M11 8.5v5"/></symbol>
+  <symbol id="i-endpoint" viewBox="0 0 24 24"><rect x="2.75" y="4.25" width="18.5" height="12.5" rx="1.5"/><path d="M8 20.25h8"/><path d="m8.5 10.5 2.25 2.25 4.75-4.75"/></symbol>
+  <symbol id="i-dlp" viewBox="0 0 24 24"><path d="M6.75 2.75h7.5l4 4v13.5a1 1 0 0 1-1 1h-10.5a1 1 0 0 1-1-1V3.75a1 1 0 0 1 1-1Z"/><path d="M14.25 2.75v4h4"/><rect x="9" y="12" width="6" height="4.5" rx=".75"/><path d="M10.25 12v-1.25a1.75 1.75 0 0 1 3.5 0V12"/></symbol>
+  <symbol id="i-passwordless" viewBox="0 0 24 24"><path d="M12 2.75a5.25 5.25 0 0 1 5.25 5.25V12"/><path d="M12 2.75A5.25 5.25 0 0 0 6.75 8v2"/><rect x="4.75" y="12" width="14.5" height="9.25" rx="1.5"/><path d="M12 15.5v2.5"/></symbol>
+  <symbol id="i-devices" viewBox="0 0 24 24"><rect x="2.75" y="5.25" width="13" height="9.5" rx="1.5"/><path d="M6.75 18.25h5"/><rect x="16.75" y="9.25" width="4.5" height="9" rx="1"/><path d="M19 16.5h.01"/></symbol>
+  <symbol id="i-capacity" viewBox="0 0 24 24"><rect x="2.75" y="3.75" width="18.5" height="5" rx="1"/><rect x="2.75" y="15.25" width="18.5" height="5" rx="1"/><path d="M6 6.25h.01M6 17.75h.01M12 8.75v6.5"/></symbol>
+  <symbol id="i-infra" viewBox="0 0 24 24"><rect x="2.75" y="2.75" width="8" height="8" rx="1"/><rect x="13.25" y="13.25" width="8" height="8" rx="1"/><path d="M10.75 6.75h4.5a2 2 0 0 1 2 2v4.5M13.25 17.25h-4.5a2 2 0 0 1-2-2v-4.5"/></symbol>
+  <symbol id="i-monitor" viewBox="0 0 24 24"><path d="M3.75 18.25h16.5"/><path d="M4.75 13.75 9 9.5l3 3 3.5-5 3.75 3.25"/><circle cx="19.25" cy="10.75" r="1"/></symbol>
+  <symbol id="i-gap" viewBox="0 0 24 24"><path d="M3.75 6.75h6.5v10.5h-6.5zM13.75 6.75h6.5v10.5h-6.5z" stroke-dasharray="0"/><path d="M10.25 12h3.5"/><path d="M13.75 8.25v8" stroke-dasharray="2 2"/></symbol>
+  <symbol id="i-remediate" viewBox="0 0 24 24"><path d="m14.5 4.5 5 5-9.75 9.75H4.75v-5L14.5 4.5Z"/><path d="m12.5 6.5 5 5"/></symbol>
+  <symbol id="i-automation" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2.75v2.5M12 18.75v2.5M2.75 12h2.5M18.75 12h2.5M5.5 5.5l1.75 1.75M16.75 16.75l1.75 1.75M18.5 5.5l-1.75 1.75M7.25 16.75 5.5 18.5"/></symbol>
+  <symbol id="i-sector" viewBox="0 0 24 24"><path d="M3.75 20.25h16.5M5.75 20.25V8.75l6.25-5 6.25 5v11.5"/><path d="M9.5 20.25v-5h5v5M12 9.75h.01"/></symbol>
+  <symbol id="i-recovery" viewBox="0 0 24 24"><path d="M4.5 12a7.5 7.5 0 1 1 2.2 5.3"/><path d="M4.5 17.5v-5h5"/><path d="M12 8.5V12l2.5 1.5"/></symbol>
+  <symbol id="i-continuity" viewBox="0 0 24 24"><path d="M3.75 12h3l2-5 3 10 2.5-7 1.5 2h4.5"/></symbol>
+  <symbol id="i-network" viewBox="0 0 24 24"><circle cx="12" cy="5.5" r="2.25"/><circle cx="5.5" cy="18.5" r="2.25"/><circle cx="18.5" cy="18.5" r="2.25"/><path d="M12 7.75v4M12 11.75l-5 4.75M12 11.75l5 4.75"/></symbol>
+  <symbol id="i-retainer" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9.25"/><path d="M12 7.5v4.5l3 1.5"/><path d="M8.5 2.75 4 5.25M15.5 2.75 20 5.25"/></symbol>
+
+  <!-- ui -->
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12.5 4.5 4.5L19 7.5"/></symbol>
+  <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+</svg>
