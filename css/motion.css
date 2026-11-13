@@ -19,9 +19,9 @@
 
   /* hero: the text rises, the tile follows */
   .js .hero .hero-in>*{opacity:0;transform:translateY(var(--reveal-y))}
-  .js .hero .hero-tile{opacity:0;transform:translateY(18px)}
+  .js .hero .hero-render{opacity:0;transform:translateY(18px)}
   .js .hero.go .hero-in>*{opacity:1;transform:none;transition:opacity 550ms var(--ease),transform 600ms var(--ease);transition-delay:calc(var(--i,0) * 110ms)}
-  .js .hero.go .hero-tile{opacity:1;transform:none;transition:opacity 700ms var(--ease),transform 800ms var(--ease);transition-delay:200ms}
+  .js .hero.go .hero-render{opacity:1;transform:none;transition:opacity 700ms var(--ease),transform 800ms var(--ease);transition-delay:200ms}
 
   /* services: the three lines draw once */
   .js .move:not(.in) .mv-l{stroke-dashoffset:1}
